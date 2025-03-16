@@ -14,6 +14,7 @@ function App() {
       <CustomCursor />
       <Routes>
         <Route path="/home" element={<Home />} />
+        <Route path="/" element={<Home />} />
         <Route path="/about" element={<About />} />
         <Route path="/projects" element={<MyProject />} />
         <Route path="/contact" element={<Contact />} />
