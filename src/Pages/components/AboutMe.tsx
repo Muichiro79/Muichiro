@@ -21,7 +21,7 @@ const AboutMe = () => {
   ];  
   return (
 
-    <div className="bg-slate-900 text-white p-10 shadow-xl">
+    <div className="bg-slate-900 text-white p-5 shadow-xl">
       <h1 className="relative text-center text-lg font-bold transition-all duration-500 ease-in-out hover:scale-105 
                      bg-[linear-gradient(90deg,#9B5DE5,#00DFFC,#00FF87)] bg-clip-text text-transparent 
                      bg-[length:200%_100%] bg-left hover:bg-right">
@@ -48,7 +48,7 @@ const AboutMe = () => {
 
         {/*  */}
         {/* About Me Sections */}
-        <div className="w-full md:w-2/3 p-6 space-y-8">
+        <div className="w-full md:w-2/3 p-1 space-y-8">
           {/* Full-Stack Development Section */}
           <div className="bg-slate-800 p-6 rounded-lg shadow-lg hover:scale-[1.02] transition-transform duration-300" data-aos="zoom-in-left">
             <h2 className="text-3xl font-bold text-cyan-400">Full-Stack Development</h2>
