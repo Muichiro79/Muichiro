@@ -6,7 +6,8 @@ import blue from "../assets/images/blue.png";
 import glx from "../assets/images/glx.png";
 import synk from "../assets/images/synk.png";
 import Aptech from "../assets/images/Aptech.png";
-
+import dem from "../assets/images/dem.png";
+import tp from "../assets/images/tp.png";
 const projects = [
   {
     id: 1,
@@ -37,6 +38,18 @@ const projects = [
     image: Aptech,
     description: "Synk AI Marketplace",
     link: "https://www.aptechogbacenter.com/",
+  },
+  {
+    id: 6,
+    image: dem,
+    description: " Demmiz sent hub  ",
+    link: "https://demmiz-affordables.vercel.app/",
+  },
+  {
+    id: 7,
+    image: tp,
+    description: "Tech Pulse",
+    link: "https://tech-pulse-rose.vercel.app/",
   },
 ];
 const MyProject = () => {
