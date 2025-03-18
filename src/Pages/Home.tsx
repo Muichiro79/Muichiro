@@ -18,7 +18,6 @@ const Home = () => {
 <AboutMe /> 
 <Projects />
 <CompaniesProject />
-<Footer />
 
     
     </>
