@@ -22,7 +22,7 @@ const Contact: React.FC = () => {
           <ContactItem icon={<FaEnvelope />} link="mailto:your.email@example.com" text="Demildeafuape79@gmail.com" />
           <ContactItem icon={<FaPhone />} link="tel:+1234567890" text="+234 816 516 7403" />
           <ContactItem icon={<FaWhatsapp />} link="https://wa.me/2348165167403" text="+234 816 516 7403" />
-          <ContactItem icon={<FaGithub />} link="https://github.com/x-10-Next-Gen" text="github.com/X-10-Next-Gen" />
+          <ContactItem icon={<FaGithub />} link="https://github.com/Muichiro79" text="github.com/Muichiro79" />
           {/* <ContactItem icon={<FaLinkedin />} link="https://linkedin.com/in/yourprofile" text="linkedin.com/in/yourprofile" />
           <ContactItem icon={<FaTwitter />} link="https://twitter.com/yourhandle" text="@yourhandle" /> */}
         </div>
