@@ -58,7 +58,7 @@ const MyProject = () => {
       }, []);
     
   return (
-    <div className="bg-slate-950 p-20">
+    <div className="bg-slate-950 p-10">
     <h2
       className="text-4xl font-bold text-center mb-8 bg-gradient-to-r from-[#9B5DE5] via-[#00DFFC] to-[#00FF87] text-transparent bg-clip-text"
       data-aos="fade-up"
