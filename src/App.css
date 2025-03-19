@@ -1,9 +1,0 @@
-@import "tailwindcss";
-* {
-    cursor: none; /* Hide default cursor */
-  }
-  
-  .hover-effect:hover {
-    color: cyan; /* Change text color on hover */
-  }
-  
