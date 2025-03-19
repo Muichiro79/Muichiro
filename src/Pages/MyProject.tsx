@@ -8,6 +8,7 @@ import synk from "../assets/images/synk.png";
 import Aptech from "../assets/images/Aptech.png";
 import dem from "../assets/images/dem.png";
 import tp from "../assets/images/tp.png";
+import YRNS from "../assets/images/YRNS.png";
 const projects = [
   {
     id: 1,
@@ -50,6 +51,12 @@ const projects = [
     image: tp,
     description: "Tech Pulse",
     link: "https://tech-pulse-rose.vercel.app/",
+  },
+    {
+    id: 8,
+    image: YRNS,
+    description: "YRNS",
+    link: "https://yrns-steel.vercel.app/",
   },
 ];
 const MyProject = () => {
